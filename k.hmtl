@@ -1,0 +1,15 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Max's personal site</title>
+    </head>
+    <body>
+        <h1>Welcome to Max's Personal Site</h1>
+            <p>This is an extremely simple personal website <br> made to understand coding better. </p>
+            <div>
+                <h2>About Me</h2>
+                <p>My name is Max, and I am a student in Ottawa trying to improve my coding skills</p>
+            </div>    
+        </body>
+</html>
